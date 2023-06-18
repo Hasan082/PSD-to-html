@@ -18,7 +18,7 @@ To work on this project, ensure that you have the following software installed:
 
 ## Screenshot
 
-![Screenshot](assets/screenshot.png)
+![Screenshot]([assets/screenshot.png](https://github.com/Hasan082/PSD-to-html/blob/main/assets/images/screenshots.png))
 
 
 ## Project Structure
