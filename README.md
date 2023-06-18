@@ -18,7 +18,7 @@ To work on this project, ensure that you have the following software installed:
 
 ## Screenshot
 
-<img src="https://team-section-psd-html.netlify.app/assets/images/team-people-2.png" alt="">
+<img src="./assets/images/screenshots.png" alt="" class="teampeople">
 
 
 ## Project Structure
