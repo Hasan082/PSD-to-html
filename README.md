@@ -18,7 +18,7 @@ To work on this project, ensure that you have the following software installed:
 
 ## Screenshot
 
-![Screenshot]([assets/screenshot.png](https://github.com/Hasan082/PSD-to-html/blob/main/assets/images/screenshots.png))
+<img src="https://team-section-psd-html.netlify.app/assets/images/team-people-2.png" alt="">
 
 
 ## Project Structure
