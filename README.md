@@ -72,7 +72,7 @@ For effective collaboration within the team, consider the following guidelines:
 
 ## Live Link
 
-<a href="https://team-section-psd-html.netlify.app" target="_blank">Live Link Here</a>
+https://team-section-psd-html.netlify.app
 
 
 ## Conclusion
