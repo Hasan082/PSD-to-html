@@ -3,7 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+body {
+    background-color: #000;
+}
 #siteWrappr {
     background-color: #000;
 
@@ -14,7 +16,7 @@ h2, p {
 section#team {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 120px 50px !important;
+    padding: 80px 50px !important;
     background-color: #000;
 }
 
