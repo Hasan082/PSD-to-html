@@ -16,6 +16,11 @@ To work on this project, ensure that you have the following software installed:
 - Text editor or Integrated Development Environment (IDE) of your choice
 - Web browser (such as Chrome, Firefox, or Safari)
 
+## Screenshot
+
+![Screenshot](assets/screenshot.png)
+
+
 ## Project Structure
 
 The project structure is organized as follows:
@@ -28,6 +33,8 @@ The project structure is organized as follows:
 │       ├── image1.jpg
 │       ├── image2.jpg
 │       └── image3.jpg
+├── screenshots/
+│   └── screenshot.png
 ├── index.html
 └── README.md
 ```
@@ -62,6 +69,15 @@ For effective collaboration within the team, consider the following guidelines:
 - Review each other's code and provide constructive feedback to improve the quality of the project.
 - Make sure to document any important decisions, challenges faced, or solutions implemented during the development process.
 
+
+## Live Link
+
+![LibeLink](https://team-section-psd-html.netlify.app/)
+
+
 ## Conclusion
 
-By following the instructions provided in this README file, your team can collaborate effectively to convert the
+By following the instructions provided in this README file, anyone can collaborate effectively to convert the PSD to HTML File.
+
+
+
